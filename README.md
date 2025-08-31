@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Singh</h1>
 <h3 align="center">A passionate Computer Science student & aspiring Full-Stack Java Developer from India</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Pranavs7&label=Profile%20views&color=0e75b6&style=flat" alt="Pranavs7" /> 
-</p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Pranavs7" alt="Pranavs7" />
-  </a> 
-</p>
 
 - 🌱 I’m currently learning **Advanced Java (Spring Boot, Hibernate), React.js, and Data Structures & Algorithms**
 

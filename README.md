@@ -32,7 +32,5 @@
   🚀 Java | Spring Boot | Hibernate | MySQL | React | Node.js | JavaScript | Python | C
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranavs7&show_icons=true&locale=en&layout=compact" alt="Pranavs7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pranavs7&show_icons=true&locale=en" alt="Pranavs7" /></p>
+<h3 align="left">Most Used Languages:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavsi7&show_icons=true&locale=en&layout=compact" alt="pranavsi7" /></p>
